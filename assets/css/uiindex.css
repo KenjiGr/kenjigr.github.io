@@ -270,7 +270,7 @@ footer{
 	height: 400px;
 }
 @media (max-width: 450px){
-    div.navbar{
+    .navbar{
         width: 100%;
     }
 }
