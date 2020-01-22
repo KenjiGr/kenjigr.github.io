@@ -269,3 +269,8 @@ footer{
 	margin-left: 49px;
 	height: 400px;
 }
+@media (max-width: 450px){
+    div.navbar{
+        width: 100%;
+    }
+}
